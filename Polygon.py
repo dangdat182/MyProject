@@ -46,8 +46,5 @@ print("Chu vi hinh binh hanh la:", hbh.chuvi())
 print("Dien tich hinh binh hanh la:", hbh.dientich())
 
 print("Chu vi hinh chu nhat la:", hcn.chuvi())
-print("Dien tich hinh chu nhat la:", hcn.dientich())
-
-print("Chu vi hinh vuong la:", hv.chuvi())
-print("Dien tich hinh vuong la:", hv.dientich())     
+print("Dien tich hinh chu nhat la:", hcn.dientich())    
          
